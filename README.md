@@ -3,7 +3,7 @@ FlagMaker Jr. X
 
 A web-based version of [FlagMaker](https://github.com/andrewsarnold/FlagMaker), a flag designing tool.
 
-The application can be found at [https://thuynguyen-jpg.github.io/FlagMaker-Jr-X/], whereas the original application can be found at [http://andrewsarnold.github.io/FlagMaker-Jr/](http://andrewsarnold.github.io/FlagMaker-Jr/).
+The application can be found at [https://thuynguyen-jpg.github.io/FlagMaker-Jr-X/](https://thuynguyen-jpg.github.io/FlagMaker-Jr-X/), whereas the original application can be found at [http://andrewsarnold.github.io/FlagMaker-Jr/](http://andrewsarnold.github.io/FlagMaker-Jr/).
 
 ### Current improvements
 
